@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+h1{
+    background-color: black;
+    color: tomato;
+    box-shadow: 19px;
+    padding-left: 42%;
+    size: 20px;
+    max-height: max-content;
+}
+img{
+    align-content: first baseline;
+}
